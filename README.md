@@ -1,6 +1,6 @@
 
 ![Oshada Basnayake (2)](https://user-images.githubusercontent.com/34527100/88219862-d2563780-cc7f-11ea-86cd-f5453311bd78.png)
-### Hi there 👋 I am Oshada Basnayake:muscle::sunny:. You can see me as a cybersecurity enthusiast,Web developer, Blogger and Digital markter. 
+### Hi there 👋 I am Oshada Basnayake:sunny:. You can see me as a cybersecurity enthusiast,Web developer, Blogger and Digital markter. 
 
 
 <!--
