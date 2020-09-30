@@ -6,7 +6,7 @@ Projects
 
 First Header | Second Header
 ------------ | -------------
-![a](Link for project creating) | Content cell 2
+![a](Link for project creating) | ![a](Link for project creating)
 Content column 1 | Content column 2
 <!--
 **oshada97/oshada97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
