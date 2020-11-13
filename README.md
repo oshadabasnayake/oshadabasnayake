@@ -6,7 +6,7 @@ Projects
 
 First Header | Second Header
 ------------ | -------------
-![a](PHP Project - mysql) | ![a](Link for project creating)
+![a](PHP Project - mysql) | ![a](html)
 Content column 1 | Content column 2
 t1 | t2
 <!--
