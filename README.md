@@ -7,7 +7,7 @@ Projects
 First Header | Second Header
 ------------ | -------------
 ![a](PHP Project - mysql) | ![a](html)
-Content column 1 | Content column 2
+C# Project | Content column 2
 t1 | t2
 <!--
 **oshada97/oshada97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
