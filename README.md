@@ -4,14 +4,14 @@
 #  ![Hacktoberfest 2020](https://github.com/oshada97/Tourism-Site) - Happy Open Source❤️😍:octocat:😍❤️ 
 Projects
 
-First Header | Second Header
+
+<!--
+**oshada97/oshada97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile First Header | Second Header
 ------------ | -------------
 ![a](PHP Project - mysql) | ![a](html)
 C# Project | Content column 2
 Chatbot Powered Travel website  | t2
- | ...
-<!--
-**oshada97/oshada97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ | ....
 
 Here are some ideas to get you started:
 
