@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.credly.com/badges/a6c32fc6-2791-4d86-9064-40a6a259d381/public_url
+
