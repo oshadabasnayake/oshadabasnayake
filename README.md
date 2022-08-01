@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=w3jLJU7DT5E)
+https://www.credly.com/badges/a6c32fc6-2791-4d86-9064-40a6a259d381/public_url
