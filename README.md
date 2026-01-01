@@ -1,5 +1,5 @@
 
-![Oshada Basnayake (2)](https://user-images.githubusercontent.com/34527100/88219862-d2563780-cc7f-11ea-86cd-f5453311bd78.png)
+
 ### Oshada Basnayake is a passionate and skilled Entrepreneur, Cybersecurity Engineer, Software Engineer, Web Developer, Blogger, and Musical Artist. Being an all-rounder tech-enthusiast is a passion. Accepting challenges and learn anything is an ability. Entrepreneurship, Innovating new ideas, Decorated individuality thrive him to work in various professional fields around the world. He reads for his bachelor’s degree in Computer Security at the University of Plymouth UK with academic, leadership, and professional skills. Further, he loves rapping and songwriting.
 <!-- [Hacktoberfest 2020](https://github.com/oshada97/Tourism-Site "Hacktoberfest 2020") - Happy Open Source❤️😍:octocat:😍❤️ 
 Projects -->
