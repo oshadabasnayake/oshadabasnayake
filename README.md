@@ -1,6 +1,6 @@
 
 
-### Oshada Basnayake is a passionate and skilled Entrepreneur, Cybersecurity Engineer, Software Engineer, Web Developer, Blogger, and Musical Artist. Being an all-rounder tech-enthusiast is a passion. Accepting challenges and learn anything is an ability. Entrepreneurship, Innovating new ideas, Decorated individuality thrive him to work in various professional fields around the world. He reads for his bachelor’s degree in Computer Security at the University of Plymouth UK with academic, leadership, and professional skills. Further, he loves rapping and songwriting.
+### Associate DevOps Engineer with 4+ years of hands-on experience securing and operating AWS cloud environments across production and UAT systems. Strong expertise in AWS IAM, cloud security, compliance automation, and DevOps operations, with ownership of access control, security monitoring, incident response, and audit readiness. Experienced in supporting CI/CD pipelines and automating cloud and security workflows using Python to reduce manual effort and operational risk. Collaborative, detail-oriented engineer with a strong security-first mindset across global teams..
 <!-- [Hacktoberfest 2020](https://github.com/oshada97/Tourism-Site "Hacktoberfest 2020") - Happy Open Source❤️😍:octocat:😍❤️ 
 Projects -->
  
